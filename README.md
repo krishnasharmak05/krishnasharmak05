@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love everything Tech.
+
+![Stats](https://github-readme-stats.vercel.app/api?username=krishnasharmak05&theme=dark&show_icons=true)
